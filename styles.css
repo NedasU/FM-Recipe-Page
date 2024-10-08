@@ -59,6 +59,10 @@
 
 }
 
+li {
+    padding-left: 1rem;
+}
+
 .container .prep-time-div {
     background-color: hsl(330, 100%, 98%);
     border-radius: 1rem;
@@ -182,3 +186,9 @@
  .attribution { font-size: 11px; text-align: center; }
  .attribution a { color: hsl(228, 45%, 44%); }
 
+
+ @media (max-width: 500px) {
+    .body {
+        font-size: 5px;
+    }
+ }
