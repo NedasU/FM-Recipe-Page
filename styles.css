@@ -191,4 +191,7 @@ li {
     .body {
         font-size: 5px;
     }
+    .img {
+        width: 10%;
+    }
  }
