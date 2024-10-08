@@ -188,14 +188,7 @@ li {
 
 
  @media (max-width: 850px) {
-    .body {
-        font-size: 5px;
-        width: 100vh;
-    }
     .container{
-        width: 20vh;
-    }
-    .img {
-        width: 10%;
+        width: 90%;
     }
  }
